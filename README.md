@@ -1,4 +1,4 @@
-Team name: Trees
+Team name: green machine
 Group members: Sage Yanoff, Anshul Ramavath, Nick Girton
 Group members emails: Sage's email: SEY39@pitt.edu, Anshul's email: ANR285@pitt.edu, Nick's email: ngg19@pitt.edu
 Datasets: Sage's dataset contains all the parks in Pittsburgh and what nieghborhood they are located in.
